@@ -1,1 +1,28 @@
-{"data":[{"id":1,"attributes":{"name":"iPad Pro","content":"Brand new iPad Pro. Latest version. Get it before we sell out!!!!","meta_description":"The newest, fastest, most efficient iPad ever made","meta_title":"Brand new iPad Pro","price":699,"slug":"ipad-pro","createdAt":"2022-01-04T20:22:57.533Z","updatedAt":"2022-01-04T20:23:21.589Z","publishedAt":"2022-01-04T20:23:21.577Z"}},{"id":2,"attributes":{"name":"PlayStation 5","content":"The newest gaming system offered from PlayStation. Play all of your old and new games!","meta_description":"Brand new PlayStation 5 - PS5","meta_title":"PlayStation 5 gaming system - PS5","price":599,"slug":"ps5","createdAt":"2022-01-04T20:25:23.185Z","updatedAt":"2022-01-04T20:25:25.794Z","publishedAt":"2022-01-04T20:25:25.788Z"}}],"meta":{"pagination":{"page":1,"pageSize":25,"pageCount":1,"total":2}}}
+[
+  {
+    "id": 1,
+    "name": "iPad Pro",
+    "image": {"url": "http://localhost:1337/uploads/ipad_pro_8c512b3cdf.jpg"},
+    "content": "Brand new iPad Pro. Latest version. Get it before we sell out!!!!",
+    "meta_description": "The newest, fastest, most efficient iPad ever made",
+    "meta_title": "Brand new iPad Pro",
+    "price": 699,
+    "slug": "ipad-pro",
+    "createdAt": "2022-01-04T20:22:57.533Z",
+    "updatedAt": "2022-01-04T20:23:21.589Z",
+    "publishedAt": "2022-01-04T20:23:21.577Z"
+  },
+  {
+    "id": 2,
+    "name": "PlayStation 5",
+    "image": { "url": "http://localhost:1337/uploads/ps5_28bf590c8a.jfif"},
+    "content": "The newest gaming system offered from PlayStation. Play all of your old and new games!",
+    "meta_description": "Brand new PlayStation 5 - PS5",
+    "meta_title": "PlayStation 5 gaming system - PS5",
+    "price": 599,
+    "slug": "ps5",
+    "createdAt": "2022-01-04T20:25:23.185Z",
+    "updatedAt": "2022-01-04T20:25:25.794Z",
+    "publishedAt": "2022-01-04T20:25:25.788Z"
+  }
+]
